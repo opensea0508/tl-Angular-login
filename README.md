@@ -1,7 +1,3 @@
-# Angular Dashboard starterkit template
-This is an Angular dashboard starterkit template project.
-I've also got a Medium post about this project :
-https://medium.com/@fransyozef/a-basic-angular-dashboard-template-with-authentication-5785e1a793a
 
 ## Goal of this project
 When I started with programming (even with Angular), I noticed I had to look up a lot of things. Things like
@@ -136,29 +132,7 @@ What's a secured dashboard if you don't have any content to show? In this templa
 - Delete an item
 - Most common component structure
 
-## That's all folks
-Well that's it for now. You can find me on linkedIn : https://www.linkedin.com/in/fransjoleihitu/
-
-Also read my articles on Medium and clap me :) : https://medium.com/@fransyozef
-
-And checkout out my Instagram page: https://www.instagram.com/thehangrycoder/
-
-If you have any questions/suggestions please don't hessitate.
-
-Amatoooooo
-
-Fransjo Leihitu
 
 
-License
-----
-
-MIT
-
-DISCLAIMER
-THIS PROJECT IS AS IS.
-
-
-**Free Software, Hell Yeah!**
 
 
